@@ -2,7 +2,7 @@
 
 **Frontend Engineer**
 
-📧 **Email:** pratikpatidar7990@gmail.com | 📱 **Phone:** +91-8269647990 | 🔗 **LinkedIn:** linkedin.com/in/pratik-patidar | 💻 **GitHub:** github.com/pratik-patidar
+**Email:** pratikpatidar7990@gmail.com | **Phone:** +91-8269647990 | **LinkedIn:** linkedin.com/in/pratik-patidar | **GitHub:** github.com/pratik-patidar
 
 ---
 
@@ -91,10 +91,10 @@ Barkatullah University, Bhopal M.P. | 2020-2024 | CGPA: 7.89
 
 ## Contact
 
-📧 **Email:** pratikpatidar7990@gmail.com
-📱 **Phone:** +91-8269647990
-🔗 **LinkedIn:** linkedin.com/in/pratik-patidar
-💻 **GitHub:** github.com/pratik-patidar
+**Email:** pratikpatidar7990@gmail.com
+**Phone:** +91-8269647990
+**LinkedIn:** linkedin.com/in/pratik-patidar
+**GitHub:** github.com/pratik-patidar
 
 ---
 
