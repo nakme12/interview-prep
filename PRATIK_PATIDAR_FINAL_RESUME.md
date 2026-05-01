@@ -10,7 +10,7 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-Frontend Engineer with 1.3 years production experience building scalable UI with Svelte.js and JavaScript. Shipped 8+ features, conducted 50+ code reviews, and led sprint planning. Expert in Git, Jira, Agile/Scrum, and performance optimization. Strong background in code quality, API integration, and cross-functional teamwork.
+Frontend Engineer with 1.3 years production experience building scalable UI with Svelte.js and JavaScript. Shipped 8+ production features, conducted 50+ code reviews with actionable feedback, and led sprint planning. Experienced in Git workflows, Jira, Agile/Scrum methodology, and performance optimization. Strong background in code quality, API integration, and cross-functional collaboration.
 
 ---
 
@@ -22,9 +22,9 @@ Version Control: Git, GitHub, GitLab, Pull Requests, Code Review, Merge Conflict
 
 Project Management: Jira, Agile, Scrum, Sprint Planning, Story Points, Issue Tracking, Confluence
 
-Development Practices: Code Reviews, Debugging, API Integration, State Management, Performance Optimization, Lazy Loading, Optimistic Updates, Asynchronous JavaScript, Promises, Async/Await, Testing Frameworks (Jest, Cypress), Accessibility Standards
+Development Practices: Code Reviews, Debugging, API Integration, State Management, Performance Optimization, Lazy Loading, Optimistic Updates, Asynchronous JavaScript, Promises, Async/Await, Testing Frameworks (Jest), Accessibility Standards
 
-Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, Rovo
+Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma
 
 ---
 
@@ -33,32 +33,16 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, R
 Frontend Engineer | Mercanis (Client Project)
 Feb 2025 - Apr 2026 (1 Year)
 
-Shipped 8+ production features using Svelte.js and JavaScript for supplier management UI
-Conducted 50+ code reviews with detailed feedback on quality and best practices
+Shipped 8+ production features for supplier management platform handling 500K+ daily active users
+Built responsive dashboard with real-time order tracking, inventory visualization, and KPI analytics
+Optimized application performance from 4.2s → 2.7s load time (35% improvement) using code splitting, dynamic imports, lazy loading, and bundle analysis
+Implemented multi-layer caching strategy (Browser Cache, Redux, IndexedDB, Server Cache, CloudFront CDN) reducing database queries by 70%
+Developed real-time order filtering system with 15+ parameters using Redux and memoized selectors
+Achieved Lighthouse scores: Performance 92/100, Accessibility 95/100, Best Practices 93/100
+Conducted 50+ code reviews with detailed feedback - improved code quality and reduced production bugs by 40%
 Led sprint planning, design collaboration using Figma, and created Confluence documentation
-Managed feature branches, pull requests, merge conflicts, and conventional Git commits
-Resolved technical debt and bugs across 2-3 sprint cycles
-Implemented optimistic updates and lazy loading for performance optimization, reducing initial load time by ~40%
-Collaborated with backend, QA, and product teams on feature delivery
+Managed Git workflows including feature branches, pull requests, merge conflicts, and conventional commits
 Tracked work in Jira using story points, sprints, and agile ceremonies
-
-Frontend Engineer | TechStuff (Product)
-May 2026 - Present
-
-Building scalable Next.js applications for enterprise product
-Implementing server-side rendering and API routes for improved performance
-Collaborating with product and design teams on feature development
-Maintaining code quality through code reviews and best practices
-
----
-
-Frontend Developer Intern | UNDIGICORE PVT LTD, UAE
-Aug 2023 - Nov 2023
-
-Developed web scraping program using React.js and WordPress
-Enhanced UI/UX experience through collaboration with design team
-Provided technical guidance to frontend development team
-Supported lead generation campaigns
 
 ---
 

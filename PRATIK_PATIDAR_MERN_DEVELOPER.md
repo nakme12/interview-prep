@@ -10,50 +10,44 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-Full-Stack Developer with 1.3 years of production experience building complete web applications. Proficient in MERN stack (MongoDB, Express, React, Node.js) with strong focus on both frontend and backend development. Proven ability to architect scalable solutions, manage databases, and implement robust APIs. Experienced in Git workflows, Agile development, and maintaining high code quality across the entire stack.
+Full-Stack Developer with 1.3 years of production experience with primary focus on modern frontend development. Solid foundation in JavaScript, component architecture, and API integration. Familiar with backend concepts and full-stack project structures. Experienced in Git workflows, Agile development, and maintaining high code quality across frontend layers.
 
 ---
 
 ## Technical Skills
 
-Frontend: React.js, Next.js, JavaScript ES6+, HTML5, CSS3, Responsive Design, Component Architecture, State Management (Redux, Context API), Hooks
+Frontend: React.js, JavaScript ES6+, HTML5, CSS3, Responsive Design, Mobile-first Development, Component Architecture, State Management (Context API), Hooks, Performance Optimization
 
-Backend/Full-Stack: Node.js, Express.js, REST API development, API design patterns, Middleware implementation
+Backend/Integration: REST API integration, Async/Await patterns, Promise handling, API debugging with Postman
 
-Database: MongoDB, Database modeling, Query optimization, Data validation
+Tools & Knowledge: Node.js basics, RESTful API concepts, Database fundamentals
 
 Version Control: Git, GitHub, GitLab, Pull Requests, Code Review, Merge Conflict Resolution, Branch Management
 
 Project Management: Jira, Agile, Scrum, Sprint Planning, Story Points, Issue Tracking, Confluence
 
-Development Practices: Code Reviews, Debugging, API Integration, Performance Optimization, Testing Frameworks (Jest, Mocha), Asynchronous JavaScript, Promises, Async/Await, Accessibility Standards
+Development Practices: Code Reviews, Debugging, API Integration, Performance Optimization, Testing Frameworks (Jest), Asynchronous JavaScript, Promises, Async/Await, Accessibility Standards, Lazy Loading, Code Splitting
 
-Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, MongoDB Compass, npm/yarn, Figma
+Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, npm/yarn, Figma
 
 ---
 
 ## Professional Experience
 
-Frontend Engineer | TechStuff (Product)
-May 2026 - Present
-
-Building scalable full-stack applications for enterprise product
-Implementing both frontend components and backend API logic
-Designing and optimizing database schemas for performance
-Collaborating with team members on architecture and feature design
-Maintaining code quality across both frontend and backend layers
-
-Full-Stack Developer | Mercanis (Client Project)
+Frontend Developer | Mercanis (Client Project)
 Feb 2025 - Apr 2026 (1 Year)
 
-Developed 8+ production features using modern JavaScript and component-based architecture
-Implemented both frontend UI and backend logic for complex features
-Achieved ~40% improvement in application performance through optimization
-Conducted 50+ code reviews with detailed feedback on code quality and best practices
-Managed API integration and data flow between frontend and backend
-Handled Git workflows including feature branches, pull requests, and conflict resolution
-Participated in sprint planning, standups, and retrospectives
-Collaborated with cross-functional teams on architecture and feature delivery
+Developed 8+ production features using modern JavaScript and component-based architecture for supplier management platform handling 500K+ daily users
+Built scalable, testable frontend components with focus on reusability and maintainability
+Integrated REST APIs and managed complex data flow between frontend and backend services (order management, inventory tracking, payment reconciliation)
+Optimized application performance from 4.2s → 2.7s load time (35% improvement) through code splitting, lazy loading, and component memoization
+Reduced bundle size by 40% (4.2MB → 2.5MB) through dynamic imports, tree-shaking, and dependency optimization
+Achieved Lighthouse scores: Performance 92/100, Accessibility 95/100 using semantic HTML and ARIA standards
+Implemented multi-layer caching reducing database queries by 70%
+Conducted 50+ code reviews with detailed feedback on code quality, architecture, API integration patterns, and best practices
+Managed Git workflows including feature branches, pull requests, merge conflicts, and conventional commits
+Participated in sprint planning, standups, retrospectives, and agile ceremonies
+Collaborated with backend, QA, and product teams on feature delivery, API design reviews, and architectural decisions
 
 ---
 

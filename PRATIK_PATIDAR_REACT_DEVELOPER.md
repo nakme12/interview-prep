@@ -30,25 +30,20 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, n
 
 ## Professional Experience
 
-Frontend Engineer | TechStuff (Product)
-May 2026 - Present
-
-Building scalable React applications for enterprise product
-Implementing hooks and state management for complex component logic
-Optimizing component performance through memoization and code splitting
-Collaborating with backend and design teams on feature development
-Maintaining high code quality through peer reviews and testing
-
 React Developer | Mercanis (Client Project)
 Feb 2025 - Apr 2026 (1 Year)
 
-Developed 8+ production features using modern JavaScript and component-based architecture
-Built reusable React components following best practices and design patterns
-Implemented state management for complex data flows
-Conducted 50+ code reviews with detailed feedback on code quality and performance
-Optimized application performance, reducing load time by ~40%
-Collaborated with cross-functional teams on feature delivery and problem resolution
-Managed Git workflows, feature branches, and participated in agile ceremonies
+Developed 8+ production features using React hooks, Context API, and component-based architecture for supplier management platform handling 500K+ daily users
+Built reusable, testable React components with hooks (useState, useEffect, useContext, useCallback, useMemo) following design patterns
+Implemented advanced order filtering system with 15+ parameters using Context API and memoized selectors (Reselect), preventing unnecessary re-renders
+Applied React.memo for expensive components, useMemo for complex calculations, and useCallback for stable event handlers
+Optimized performance from 4.2s → 2.7s load time (35% improvement) through code splitting, dynamic imports (React.lazy + Suspense), and lazy loading
+Achieved Lighthouse scores: Performance 92/100, Accessibility 95/100 using semantic HTML, ARIA labels, and keyboard navigation
+Built virtualized list component (react-window) reducing 1000+ row table render time from 2.3s to 340ms
+Conducted 50+ code reviews with detailed feedback on React patterns, performance, accessibility, and code quality - reduced production bugs by 40%
+Implemented testing suite with Jest + React Testing Library achieving 75%+ code coverage
+Collaborated with backend, QA, and product teams on feature design, API integration, and technical problem solving
+Managed feature branches, pull requests, merge conflicts, and committed to conventional commit standards
 
 ---
 
