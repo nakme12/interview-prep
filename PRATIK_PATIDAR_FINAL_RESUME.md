@@ -16,13 +16,13 @@ Frontend Engineer with 1+ year production experience building scalable UI with S
 
 ## Technical Skills
 
-Frontend Technologies: Svelte.js, JavaScript ES6+, HTML5, CSS3, React, Responsive Design, Component Architecture, DOM Manipulation
+Frontend Technologies: Svelte.js, JavaScript ES6+, HTML5, CSS3, React, Responsive Design, Mobile-first Development, Component Architecture, DOM Manipulation, Accessibility (a11y)
 
 Version Control: Git, GitHub, GitLab, Pull Requests, Code Review, Merge Conflict Resolution, Branch Management
 
 Project Management: Jira, Agile, Scrum, Sprint Planning, Story Points, Issue Tracking, Confluence
 
-Development Practices: Code Reviews, Debugging, API Integration, State Management, Performance Optimization, Lazy Loading, Optimistic Updates, Asynchronous JavaScript, Promises, Async/Await
+Development Practices: Code Reviews, Debugging, API Integration, State Management, Performance Optimization, Lazy Loading, Optimistic Updates, Asynchronous JavaScript, Promises, Async/Await, Testing Frameworks (Jest, Cypress), Accessibility Standards
 
 Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, Rovo
 
@@ -38,7 +38,7 @@ Conducted 50+ code reviews with detailed feedback on quality and best practices
 Led sprint planning, design collaboration using Figma, and created Confluence documentation
 Managed feature branches, pull requests, merge conflicts, and conventional Git commits
 Resolved technical debt and bugs across 2-3 sprint cycles
-Implemented optimistic updates and lazy loading for performance optimization
+Implemented optimistic updates and lazy loading for performance optimization, reducing initial load time by ~40%
 Collaborated with backend, QA, and product teams on feature delivery
 Tracked work in Jira using story points, sprints, and agile ceremonies
 
