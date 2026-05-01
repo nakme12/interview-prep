@@ -905,6 +905,279 @@ Management:
 
 ---
 
+## SECTION 3B: MERGE REQUEST (MR) REVIEWS
+
+### Q10.5: What's a Merge Request? How do you review PRs/MRs?
+
+**What They're Testing:**
+- Code review skills
+- Attention to detail
+- Knowledge of best practices
+- Communication in reviews
+
+**Your Answer Should Include:**
+
+**What is a Merge Request:**
+- Request to merge feature branch into main
+- Requires code review before merging
+- Gatekeeper for code quality
+- Forces discussion/agreement before merge
+
+**MR Workflow:**
+
+```
+1. You push feature branch
+2. Create MR on GitHub/GitLab
+3. Team members review your code
+4. They approve or request changes
+5. You fix feedback
+6. Gets approved
+7. You merge to main
+```
+
+**As a Code Reviewer (Your Role at Mercanis):**
+
+**What You Check When Reviewing MRs:**
+
+```
+1. FUNCTIONALITY
+   ✓ Does the code do what it's supposed to?
+   ✓ Are the changes related to the ticket?
+   ✓ Any edge cases missed?
+   ✓ Test it locally if possible
+
+2. CODE QUALITY
+   ✓ Code follows team standards
+   ✓ No unnecessary complexity
+   ✓ Proper variable naming
+   ✓ Functions not too long
+   ✓ Comments where needed
+
+3. PERFORMANCE
+   ✓ Any N+1 queries?
+   ✓ Unnecessary re-renders?
+   ✓ Large bundle size increase?
+   ✓ Memory leaks?
+
+4. SECURITY
+   ✓ No hardcoded secrets
+   ✓ No SQL injection risks
+   ✓ Input validation?
+   ✓ XSS prevention?
+
+5. TESTS
+   ✓ Tests added for changes?
+   ✓ Test coverage maintained?
+   ✓ Edge cases tested?
+
+6. DOCUMENTATION
+   ✓ Changelog updated?
+   ✓ README updated if needed?
+   ✓ Code comments clear?
+```
+
+**Example MR Review at Mercanis:**
+
+```
+PR Title: "Build supplier profile form (SUP-456)"
+
+Your review comment:
+
+"Great work on this feature! A few suggestions:
+
+1. **Functionality**: The form saves successfully ✓
+
+2. **Code Quality**:
+   - Consider extracting form validation to separate
+     function (currently 50 lines in component)
+   - Variable name 'temp' should be 'tempSupplierData'
+     for clarity
+
+3. **Performance**:
+   - Form re-renders on every keystroke (use debounce)
+   - Suggestion: Wrap in React.memo
+
+4. **Security**:
+   - Good job sanitizing input ✓
+   - Consider validating on backend too
+
+5. **Tests**:
+   - Can you add test for validation error case?
+
+6. **Documentation**:
+   - Add comment explaining the save logic
+
+Approved with minor changes (fix above and I'll re-review)
+
+Overall: Good work! ✓"
+```
+
+**Types of Review Comments:**
+
+```
+✅ APPROVAL
+"Looks good! Ready to merge"
+
+🟡 CHANGES REQUESTED
+"Please fix these issues before merge"
+- Specific feedback
+- Suggestions for improvement
+- Alternative approaches
+
+💬 COMMENT
+"FYI: Similar code exists in utils.js,
+might want to refactor together in future"
+
+📝 QUESTION
+"Why did you choose this approach instead of X?"
+```
+
+**Best Practices as Reviewer:**
+
+✅ **Good Reviews:**
+- Specific feedback ("This function is 80 lines,
+  consider breaking into smaller functions")
+- Be constructive ("This could also be done with X
+  for better performance")
+- Explain WHY ("This causes N+1 queries,
+  let me show you...")
+- Ask questions ("Did you consider...?")
+- Praise good code ("Nice optimization here!")
+- Test locally if possible
+
+❌ **Bad Reviews:**
+- Vague ("This is bad")
+- Dismissive ("Wrong approach")
+- Nitpicky only (care about logic, not just style)
+- No explanation
+- Slow response (review within 24 hours)
+
+**Real Mercanis Review Scenarios:**
+
+**Scenario 1: Catching a Bug**
+```
+PR: "Add payment configuration form"
+
+You review locally → Find: Form doesn't save on slow
+networks (no error handling)
+
+Your comment:
+"Good work! One issue: The form doesn't show errors
+if the API call times out.
+
+Currently:
+  const response = await fetch('/api/payments');
+  setConfig(response.data);
+
+Should be:
+  try {
+    const response = await fetch('/api/payments');
+    setConfig(response.data);
+  } catch (error) {
+    setError('Failed to save. Please try again.');
+  }
+
+This prevents silent failures on slow networks."
+
+Developer: "Good catch! Fixing now..."
+```
+
+**Scenario 2: Suggesting Optimization**
+```
+PR: "Render supplier list with filters"
+
+Code has:
+  suppliers.map(s => <SupplierCard {...s} />)
+  Renders 1000+ items every time
+
+Your comment:
+"Overall looks good! One optimization:
+
+With 1000+ suppliers, rendering all at once is slow.
+Consider:
+1. Pagination (show 20/page)
+2. Virtual scrolling (react-window)
+3. Search/filter first
+
+Which approach makes sense for your use case?
+Happy to discuss!"
+
+Developer: "Oh good point, will add pagination"
+```
+
+**Scenario 3: Enforcing Standards**
+```
+PR: "Update payment module"
+
+Code has no tests
+
+Your comment:
+"Thanks for the update! One thing:
+
+Our team standard is to maintain 75%+ test coverage.
+This PR removes coverage (tests missing for error case).
+
+Could you add test for failed payment scenario?
+
+Test idea:
+- Mock API to return error
+- Verify error message shows
+- Verify user can retry
+
+Let me know if you need help writing the test!"
+```
+
+**MR Review Checklist (Use This in Interviews):**
+
+```
+When reviewing an MR, I check:
+
+□ Does it fix the right issue? (Link to Jira?)
+□ Code works as intended?
+□ Follows naming conventions?
+□ No unnecessary complexity?
+□ Tests added?
+□ Test coverage maintained?
+□ Performance impact?
+□ Security issues?
+□ Error handling?
+□ Comments added where needed?
+□ Staging area clean (no debug code)?
+□ Ready for production?
+
+Then: Approve or request changes
+```
+
+**Interview Answer (Putting it Together):**
+
+```
+"At Mercanis, I regularly reviewed merge requests.
+My process:
+
+1. First, I read the PR description to understand
+   what it's trying to do
+
+2. I check if there are tests - if not, I ask for them
+
+3. I review the code for:
+   - Functionality (does it work?)
+   - Code quality (is it clean?)
+   - Performance (any bottlenecks?)
+   - Security (any vulnerabilities?)
+
+4. I test locally if possible - actually run the code
+
+5. I provide specific, constructive feedback
+
+6. If approved, I verify it merges cleanly
+
+I believe code reviews are about helping the team
+write better code together, not just gatekeeping.
+So I try to be supportive while being thorough."
+```
+
+---
+
 ## SECTION 4: RED FLAGS TO AVOID
 
 ❌ **Don't say:**

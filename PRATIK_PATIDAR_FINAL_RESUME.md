@@ -56,7 +56,7 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 - Implemented supplier configuration page for managing payment terms and preferences
 - **Version Control & Git:** Managed feature branches, created pull requests, resolved merge conflicts, and followed conventional commit messages linking to Jira tickets
 - **Project Management:** Tracked work in Jira using story points and sprints, participated in agile ceremonies (standup, sprint planning, review)
-- **Code Quality:** Participated in code reviews and merge request discussions, maintaining frontend best practices and ensuring code quality
+- **Code Quality & Reviews:** Conducted thorough merge request (MR) reviews, provided constructive feedback on code quality, tested features before approval, and ensured adherence to frontend best practices across team PRs
 - Collaborated closely with backend, QA, and product teams to deliver features on schedule, communicating blockers through Jira
 - Contributed to frontend enhancements, bug fixes, and continuous improvement of user experience
 - Gained experience with optimistic UI updates and lazy loading for performance optimization
