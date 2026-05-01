@@ -51,9 +51,8 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 ### Junior Frontend Engineer | Mercanis
 **Apr 2024 - Apr 2025** (1 Year)
 
-- Developed supplier management UI features using Svelte.js for an AI-powered procurement platform
-- Built supplier profile page enabling users to view and edit company information, contact details, and settings
-- Implemented supplier configuration page for managing payment terms and preferences
+- Developed supplier management UI features using Svelte.js for an AI-powered procurement platform, including supplier profile and configuration pages
+- **Sprint Planning & Design:** Participated in sprint planning, collaborated with design team using Figma to finalize UI/UX designs, and created comprehensive Confluence documentation for feature specifications and implementation guidelines
 - **Version Control & Git:** Managed feature branches, created pull requests, resolved merge conflicts, and followed conventional commit messages linking to Jira tickets
 - **Project Management:** Tracked work in Jira using story points and sprints, participated in agile ceremonies (standup, sprint planning, review)
 - **Code Quality & Reviews:** Conducted thorough merge request (MR) reviews, provided constructive feedback on code quality, tested features before approval, and ensured adherence to frontend best practices across team PRs
