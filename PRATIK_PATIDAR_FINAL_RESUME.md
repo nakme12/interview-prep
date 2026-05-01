@@ -82,15 +82,6 @@ Barkatullah University, Bhopal M.P. | 2020-2024 | CGPA: 7.89
 
 ---
 
-## Leadership & Achievements
-
-- **Mathematics Olympiad Winner** - Led team to victory in regional competition, Indore
-- **School Topper** - Scored 98/100 in Mathematics during higher secondary school
-- **Volleyball Team Leader** - Led school team to reach finals in inter-school tournament
-- **Team Player** - Strong collaboration and communication skills demonstrated through cross-functional work at Mercanis
-
----
-
 ## Additional Information
 
 **Languages:** English, Hindi
