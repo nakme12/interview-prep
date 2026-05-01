@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Frontend Engineer with 1+ year of production experience building responsive and scalable UI features. Proficient in modern web technologies including Svelte.js, JavaScript, and HTML/CSS. Strong foundation in component-based architecture and frontend best practices. Eager learner with focus on continuous improvement and code quality.
+Frontend Engineer with 1+ year of production experience at Mercanis, building scalable supplier management UI with Svelte.js. Shipped 8+ features across multiple sprint cycles, led sprint planning and design collaboration, and conducted 50+ code reviews. Skilled in Git workflows, Jira-based project management, and Agile methodologies. Strong focus on code quality, performance optimization, and cross-functional collaboration.
 
 ---
 
@@ -40,10 +40,10 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 - CI/CD Pipeline basics & deployment workflows
 
 **Core Concepts:**
-- DOM Manipulation, Event Handling
 - Asynchronous JavaScript (Promises, async/await)
 - API Integration & Data Fetching
 - State Management Fundamentals
+- Performance Optimization (Optimistic Updates, Lazy Loading)
 
 ---
 
@@ -52,14 +52,14 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 ### Frontend Engineer | Mercanis
 **Apr 2024 - Apr 2025** (1 Year)
 
-- Developed supplier management UI features using Svelte.js for an AI-powered procurement platform, including supplier profile and configuration pages
-- **Sprint Planning & Design:** Participated in sprint planning, collaborated with design team using Figma to finalize UI/UX designs, and created comprehensive Confluence documentation for feature specifications and implementation guidelines
-- **Version Control & Git:** Managed feature branches, created pull requests, resolved merge conflicts, and followed conventional commit messages linking to Jira tickets
-- **Project Management:** Tracked work in Jira using story points and sprints, participated in agile ceremonies (standup, sprint planning, review)
-- **Code Quality & Reviews:** Conducted thorough merge request (MR) reviews, provided constructive feedback on code quality, tested features before approval, and ensured adherence to frontend best practices across team PRs
-- Collaborated closely with backend, QA, and product teams to deliver features on schedule, communicating blockers through Jira
-- Contributed to frontend enhancements, bug fixes, and continuous improvement of user experience
-- Gained experience with optimistic UI updates and lazy loading for performance optimization
+- **Feature Development:** Shipped 8+ production features as both sprint lead (4-5 features) and supporting developer (3-4 features) using Svelte.js, including supplier profile and configuration pages for the AI-powered procurement platform
+- **Technical Debt & Maintenance:** Managed technical debt resolution and bug fixes for 2-3 sprint cycles, ensuring code quality and system stability
+- **Sprint Planning & Design:** Led sprint planning participation, collaborated with design team using Figma to finalize UI/UX designs, and created comprehensive Confluence documentation for feature specifications and implementation guidelines
+- **Code Review Leadership:** Conducted 50+ thorough merge request reviews, provided constructive feedback on code quality, tested features before approval, and mentored team on frontend best practices
+- **Version Control & Git:** Managed feature branches, created/resolved pull requests, resolved merge conflicts, and followed conventional commit messages linking to Jira tickets
+- **Project Management:** Tracked work in Jira using story points and sprints, participated in all agile ceremonies (daily standup, sprint planning, sprint review)
+- Collaborated closely with backend, QA, and product teams to deliver features on schedule and resolve blockers through Jira
+- Implemented performance optimizations including optimistic UI updates and lazy loading for enhanced user experience
 
 ---
 
@@ -85,9 +85,7 @@ Barkatullah University, Bhopal M.P. | 2020-2024 | CGPA: 7.89
 ## Additional Information
 
 **Languages:** English, Hindi
-**Tools & Platforms:** VS Code, Cursor, Windsurf, Git, Chrome DevTools, Postman, Claude AI, Rovo (Jira AI Assistant)
-**Development Practices:** Modern development with AI-assisted tools, code understanding, debugging, and optimization
-**Interests:** Web Development, Frontend Architecture, Performance Optimization, Continuous Learning
+**Development Tools:** VS Code, Cursor, Windsurf, Git, Chrome DevTools, Postman, Claude AI, Rovo (Jira AI Assistant), Figma, Confluence
 
 ---
 
