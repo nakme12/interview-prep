@@ -43,7 +43,7 @@ Collaborated with backend, QA, and product teams on feature delivery
 Tracked work in Jira using story points, sprints, and agile ceremonies
 
 Frontend Engineer | TechStuff
-Apr 2026 - Present
+May 2026 - Present
 
 Building scalable Next.js applications for enterprise platform
 Implementing server-side rendering and API routes for improved performance

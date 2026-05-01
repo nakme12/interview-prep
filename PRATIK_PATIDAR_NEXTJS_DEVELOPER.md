@@ -33,7 +33,7 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, n
 ## Professional Experience
 
 Frontend Engineer | TechStuff
-Apr 2026 - Present
+May 2026 - Present
 
 Building scalable Next.js applications for enterprise platform
 Implementing server-side rendering and static generation for optimal performance

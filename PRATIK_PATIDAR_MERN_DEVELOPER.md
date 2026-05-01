@@ -35,7 +35,7 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, MongoDB 
 ## Professional Experience
 
 Frontend Engineer | TechStuff
-Apr 2026 - Present
+May 2026 - Present
 
 Building scalable full-stack applications for enterprise platform
 Implementing both frontend components and backend API logic

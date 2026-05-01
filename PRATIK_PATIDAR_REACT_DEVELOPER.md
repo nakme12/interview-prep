@@ -31,7 +31,7 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, n
 ## Professional Experience
 
 Frontend Engineer | TechStuff
-Apr 2026 - Present
+May 2026 - Present
 
 Building scalable React applications for enterprise platform
 Implementing hooks and state management for complex component logic
