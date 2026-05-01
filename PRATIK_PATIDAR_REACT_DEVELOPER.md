@@ -10,7 +10,7 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-React Developer with 1+ year of production experience building scalable, component-based UI applications. Strong foundation in React fundamentals (hooks, state management, component lifecycle). Proven ability to work with modern JavaScript, collaborate across teams, and implement performance optimizations. Experienced in Git workflows, Agile development, and code quality practices.
+React Developer with 1.3 years of production experience building scalable, component-based UI applications. Strong foundation in React fundamentals (hooks, state management, component lifecycle). Proven ability to work with modern JavaScript, collaborate across teams, and implement performance optimizations. Experienced in Git workflows, Agile development, and code quality practices.
 
 ---
 

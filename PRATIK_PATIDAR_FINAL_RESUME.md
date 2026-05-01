@@ -10,7 +10,7 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-Frontend Engineer with 1+ year production experience building scalable UI with Svelte.js and JavaScript. Shipped 8+ features, conducted 50+ code reviews, and led sprint planning. Expert in Git, Jira, Agile/Scrum, and performance optimization. Strong background in code quality, API integration, and cross-functional teamwork.
+Frontend Engineer with 1.3 years production experience building scalable UI with Svelte.js and JavaScript. Shipped 8+ features, conducted 50+ code reviews, and led sprint planning. Expert in Git, Jira, Agile/Scrum, and performance optimization. Strong background in code quality, API integration, and cross-functional teamwork.
 
 ---
 

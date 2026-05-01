@@ -10,7 +10,7 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-Next.js Developer with 1+ year of production experience building full-stack applications. Currently working on Next.js enterprise products. Strong expertise in server-side rendering, API routes, and modern React patterns. Proven track record of delivering scalable, performant applications with focus on SEO and user experience. Experienced in Git workflows, Agile methodologies, and code quality practices.
+Next.js Developer with 1.3 years of production experience building full-stack applications. Currently working on Next.js enterprise products. Strong expertise in server-side rendering, API routes, and modern React patterns. Proven track record of delivering scalable, performant applications with focus on SEO and user experience. Experienced in Git workflows, Agile methodologies, and code quality practices.
 
 ---
 

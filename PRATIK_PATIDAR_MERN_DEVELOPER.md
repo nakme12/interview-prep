@@ -10,7 +10,7 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-Full-Stack Developer with 1+ year of production experience building complete web applications. Proficient in MERN stack (MongoDB, Express, React, Node.js) with strong focus on both frontend and backend development. Proven ability to architect scalable solutions, manage databases, and implement robust APIs. Experienced in Git workflows, Agile development, and maintaining high code quality across the entire stack.
+Full-Stack Developer with 1.3 years of production experience building complete web applications. Proficient in MERN stack (MongoDB, Express, React, Node.js) with strong focus on both frontend and backend development. Proven ability to architect scalable solutions, manage databases, and implement robust APIs. Experienced in Git workflows, Agile development, and maintaining high code quality across the entire stack.
 
 ---
 
