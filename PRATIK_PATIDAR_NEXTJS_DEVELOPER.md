@@ -10,7 +10,7 @@ GitHub: github.com/pratik-patidar
 
 ## Professional Summary
 
-Next.js Developer with 1.2+ years of production experience building full-stack applications. Currently working on Next.js enterprise platforms. Strong expertise in server-side rendering, API routes, and modern React patterns. Proven track record of delivering scalable, performant applications with focus on SEO and user experience. Experienced in Git workflows, Agile methodologies, and code quality practices.
+Next.js Developer with 1+ year of production experience building full-stack applications. Currently working on Next.js enterprise products. Strong expertise in server-side rendering, API routes, and modern React patterns. Proven track record of delivering scalable, performant applications with focus on SEO and user experience. Experienced in Git workflows, Agile methodologies, and code quality practices.
 
 ---
 
@@ -32,18 +32,17 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, n
 
 ## Professional Experience
 
-Frontend Engineer | TechStuff
+Frontend Engineer | TechStuff (Product)
 May 2026 - Present
 
-Building scalable Next.js applications for enterprise platform
+Building scalable Next.js applications for enterprise product
 Implementing server-side rendering and static generation for optimal performance
 Creating and managing API routes for backend integration
 Optimizing application performance and SEO for search engines
 Collaborating with product and design teams on feature development
-Implementing modern React patterns and best practices
 
-Full-Stack Frontend Developer (via Mercanis Project) | TechStuff
-Apr 2025 - Apr 2026
+Full-Stack Frontend Developer | Mercanis (Client Project)
+Feb 2025 - Apr 2026 (1 Year)
 
 Developed 8+ production features using modern JavaScript and component-based architecture
 Implemented performance optimizations including lazy loading and code splitting
@@ -52,15 +51,6 @@ Conducted 50+ code reviews with detailed feedback on code quality and performanc
 Managed Git workflows, including feature branches, pull requests, and conflict resolution
 Participated in agile ceremonies (standups, planning, retrospectives)
 Collaborated with backend, QA, and product teams on feature delivery
-Created comprehensive documentation for features and architectural decisions
-
-Frontend Developer Intern | TechStuff
-Feb 2025 - Aug 2025
-
-Learned full-stack JavaScript development fundamentals
-Understood web application architecture and rendering strategies
-Gained hands-on experience with Git workflows and collaborative development
-Participated in agile development processes
 
 ---
 

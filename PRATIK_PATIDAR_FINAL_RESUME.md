@@ -30,8 +30,8 @@ Tools & Platforms: VS Code, Cursor, Windsurf, Chrome DevTools, Postman, Figma, R
 
 ## Professional Experience
 
-Frontend Engineer | Mercanis (via TechStuff)
-Apr 2025 - Apr 2026
+Frontend Engineer | Mercanis (Client Project)
+Feb 2025 - Apr 2026 (1 Year)
 
 Shipped 8+ production features using Svelte.js and JavaScript for supplier management UI
 Conducted 50+ code reviews with detailed feedback on quality and best practices
@@ -42,10 +42,10 @@ Implemented optimistic updates and lazy loading for performance optimization, re
 Collaborated with backend, QA, and product teams on feature delivery
 Tracked work in Jira using story points, sprints, and agile ceremonies
 
-Frontend Engineer | TechStuff
+Frontend Engineer | TechStuff (Product)
 May 2026 - Present
 
-Building scalable Next.js applications for enterprise platform
+Building scalable Next.js applications for enterprise product
 Implementing server-side rendering and API routes for improved performance
 Collaborating with product and design teams on feature development
 Maintaining code quality through code reviews and best practices
