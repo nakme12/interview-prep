@@ -17,12 +17,26 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 **Frontend Technologies:**
 - Svelte.js, JavaScript (ES6+), HTML5, CSS3
 - Responsive Design, Component Architecture
-- Git/GitHub, Visual Studio Code
+- Visual Studio Code
+
+**Version Control & Collaboration:**
+- Git (Branches, Commits, Merge/Rebase, Conflict Resolution)
+- GitHub/GitLab (Pull Requests, Code Review)
+- Branch naming conventions & Git workflows
+- Conventional commits & commit messages
+
+**Project Management & Workflows:**
+- Jira (Story Points, Sprints, Issue Tracking)
+- Agile/Scrum methodology
+- Linking Git commits to Jira tickets
+- Sprint planning & standups
+- Story, Task, Bug, and Epic categorization
 
 **Development Practices:**
 - Code Reviews & Best Practices
 - Debugging & Problem Solving
 - Cross-functional Collaboration
+- Pull Request reviews and approvals
 
 **Core Concepts:**
 - DOM Manipulation, Event Handling
@@ -40,8 +54,10 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 - Developed supplier management UI features using Svelte.js for an AI-powered procurement platform
 - Built supplier profile page enabling users to view and edit company information, contact details, and settings
 - Implemented supplier configuration page for managing payment terms and preferences
-- Collaborated closely with backend, QA, and product teams to deliver features on schedule
-- Participated in code reviews and merge request discussions, maintaining frontend best practices
+- **Version Control & Git:** Managed feature branches, created pull requests, resolved merge conflicts, and followed conventional commit messages linking to Jira tickets
+- **Project Management:** Tracked work in Jira using story points and sprints, participated in agile ceremonies (standup, sprint planning, review)
+- **Code Quality:** Participated in code reviews and merge request discussions, maintaining frontend best practices and ensuring code quality
+- Collaborated closely with backend, QA, and product teams to deliver features on schedule, communicating blockers through Jira
 - Contributed to frontend enhancements, bug fixes, and continuous improvement of user experience
 - Gained experience with optimistic UI updates and lazy loading for performance optimization
 
