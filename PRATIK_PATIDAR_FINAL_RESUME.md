@@ -1,6 +1,6 @@
 # Pratik Patidar
 
-**Junior Frontend Engineer**
+**Frontend Engineer**
 
 📧 **Email:** pratikpatidar7990@gmail.com | 📱 **Phone:** +91-8269647990 | 🔗 **LinkedIn:** linkedin.com/in/pratik-patidar | 💻 **GitHub:** github.com/pratik-patidar
 
@@ -32,11 +32,12 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 - Sprint planning & standups
 - Story, Task, Bug, and Epic categorization
 
-**Development Practices:**
+**Development Practices & DevOps:**
 - Code Reviews & Best Practices
 - Debugging & Problem Solving
 - Cross-functional Collaboration
 - Pull Request reviews and approvals
+- CI/CD Pipeline basics & deployment workflows
 
 **Core Concepts:**
 - DOM Manipulation, Event Handling
@@ -48,7 +49,7 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 
 ## Professional Experience
 
-### Junior Frontend Engineer | Mercanis
+### Frontend Engineer | Mercanis
 **Apr 2024 - Apr 2025** (1 Year)
 
 - Developed supplier management UI features using Svelte.js for an AI-powered procurement platform, including supplier profile and configuration pages
