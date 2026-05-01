@@ -17,7 +17,7 @@ Frontend Engineer with 1+ year of production experience building responsive and 
 **Frontend Technologies:**
 - Svelte.js, JavaScript (ES6+), HTML5, CSS3
 - Responsive Design, Component Architecture
-- Visual Studio Code
+- DOM Manipulation, Event Handling
 
 **Version Control & Collaboration:**
 - Git (Branches, Commits, Merge/Rebase, Conflict Resolution)
