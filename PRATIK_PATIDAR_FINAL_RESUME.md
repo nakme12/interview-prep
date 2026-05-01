@@ -94,7 +94,8 @@ Barkatullah University, Bhopal M.P. | 2020-2024 | CGPA: 7.89
 ## Additional Information
 
 **Languages:** English, Hindi
-**Tools & Platforms:** VS Code, Git, Chrome DevTools, Postman
+**Tools & Platforms:** VS Code, Cursor, Windsurf, Git, Chrome DevTools, Postman, Claude AI, Rovo (Jira AI Assistant)
+**Development Practices:** Modern development with AI-assisted tools, code understanding, debugging, and optimization
 **Interests:** Web Development, Frontend Architecture, Performance Optimization, Continuous Learning
 
 ---
