@@ -16,9 +16,11 @@ Frontend Engineer with 1.3 years of production experience building responsive, s
 
 ## Technical Skills
 
-Frontend Technologies: React.js, JavaScript ES6+, HTML5, CSS3, Responsive Design, Mobile-first Development, Component Architecture, DOM Manipulation, Hooks, State Management (Redux, Context API), Accessibility, Tailwind CSS
+Frontend Technologies: React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Sass, SCSS, Responsive Design, Mobile-first Development, Component Architecture, DOM Manipulation, Hooks, State Management (Redux, Context API), Accessibility
 
-JavaScript Tools: Webpack, Babel, npm, yarn, Dynamic Imports, Code Splitting
+JavaScript Tools: Webpack, Babel, ESLint, npm, yarn, Dynamic Imports, Code Splitting, Build Optimization
+
+Backend Integration: REST API integration, Node.js basics, Express basics, Asynchronous JavaScript patterns
 
 Type Safety: Understanding of TypeScript concepts and type systems
 
@@ -40,9 +42,11 @@ Feb 2025 - Apr 2026 (1 Year)
 Designed and maintained engaging frontend experiences for supplier management platform serving 500K+ daily active users
 Built responsive, scalable, and user-friendly web applications focusing on both performance and usability
 Owned React components from design to production including order dashboard, inventory tracker, and analytics interface
-Translated designs into responsive, performant code achieving Lighthouse performance score of 92/100 and accessibility score of 95/100
+Translated designs into responsive, performant code using React, HTML5, CSS3, and Sass achieving Lighthouse performance score of 92/100 and accessibility score of 95/100
 Developed reusable, testable React components with hooks (useState, useEffect, useContext, useCallback, useMemo) following design system patterns
 Implemented advanced order filtering system with 15+ parameters using Context API and Redux for complex state management
+Collaborated with backend developers to integrate RESTful APIs and ensure smooth data flow between frontend and backend systems
+Utilized modern build tools including Webpack, Babel, and ESLint to optimize bundle size and maintain code quality standards
 Maintained high code quality through peer reviews with detailed feedback on component design, performance optimization, and accessibility
 Optimized web performance from 4.2 seconds to 2.7 seconds load time (35% improvement) using code splitting, dynamic imports (React.lazy + Suspense), lazy loading
 Reduced bundle size from 4.2MB to 2.5MB (40% reduction) through Webpack bundle analysis, tree-shaking, and code splitting
